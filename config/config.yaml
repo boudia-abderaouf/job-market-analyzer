@@ -1,0 +1,10 @@
+indeed: 
+  source_url: https://fr.indeed.com/jobs?q={job}&l={city}+%2875%29&from=searchOnHP%2Cwhatautocomplete&vjk=e0bcb70174f47c27
+
+wttj: 
+  source_url: https://www.welcometothejungle.com/fr/jobs?refinementList%5Boffices.country_code%5D%5B%5D=FR&query={job}&page={page}&aroundQuery={city}
+  
+
+params:
+  job_name: ['data science', 'data analyst']
+  city: ['paris', 'lille']

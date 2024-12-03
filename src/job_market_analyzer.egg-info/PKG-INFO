@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: job-market-analyzer
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/boudia-abderaouf/kidney-disease-classification-project
+Author: boudia-abderaouf
+Author-email: abderaouf.boudia@gmail.com
+Project-URL: Bug Tracker, https://github.com/boudia-abderaouf/kidney-disease-classification-project/issues
+License-File: LICENSE
+
 # JobTrendInsights 
 
 
@@ -14,14 +24,6 @@ This project aims to:
 ## Features
 
 - Web scraping modules for Indeed and Welcome to the Jungle
-- Welcome to the Jungle workflow : 
-    - Job number element 
-    - nom de l'annonce 
-    - l'entreprise de l'annonce 
-    - type du job: cdi, cdd, stage 
-    - adresse de l'annonce
-    - date de l'annonce
-    - Description de l'annonce
 - Data storage solution for scraped job listings
 - Data analysis tools to identify trends in the job market
 - Flask web application to search and display job offers based on job title and date

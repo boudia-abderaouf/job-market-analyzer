@@ -1,0 +1,19 @@
+selenium
+webdriver-manager
+bs4
+requests
+dvc
+numpy
+matplotlib
+seaborn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+
+-e .
